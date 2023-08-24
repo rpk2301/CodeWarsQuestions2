@@ -7,6 +7,7 @@ public class Main {
     public static void main(String[] args) {
         BreakPalindrome.breakPalindrome("abccba");
         BreakPalindrome.breakPalindrome("aba");
+        BreakPalindrome.breakPalindrome("racecar");
     }
 
 
