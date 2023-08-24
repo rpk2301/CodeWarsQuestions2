@@ -4,21 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" afterDir="false" />
+    <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="Added readme">
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/BreakPalindrome/BreakPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/BreakPalindrome/Question" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2TWMXSvmEnCtY2tJlsj3wHgpfTw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,6 +44,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,10 +77,24 @@
       <option name="presentableId" value="Default" />
       <updated>1691154424691</updated>
       <workItem from="1692802820139" duration="1088000" />
+      <workItem from="1692905233304" duration="8105000" />
     </task>
+    <task id="LOCAL-00001" summary="Added readme">
+      <option name="closed" value="true" />
+      <created>1692906073682</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692906073682</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added readme" />
   </component>
 </project>
