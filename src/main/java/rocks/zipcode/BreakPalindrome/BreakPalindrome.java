@@ -9,7 +9,7 @@ to pass!
 
     public static String breakPalindrome(String palindrome) {
 
-        if(palindrome.length()==1 && palindrome.charAt(0)=='a')
+        if(palindrome.length()==1)
         {
             return "";
         }
