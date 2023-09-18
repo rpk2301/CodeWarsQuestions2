@@ -1,13 +1,17 @@
 package rocks.zipcode;
 
 import rocks.zipcode.BreakPalindrome.BreakPalindrome;
+import rocks.zipcode.EqualSidesOfAnArray.EqualSidesOfAnArray;
 import rocks.zipcode.MultiplesOf3And5.Multiplesof3and5;
 import rocks.zipcode.SplitStrings.SplitStrings;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(ArrayUtils.seeEverything(SplitStrings.solution("final")));
+       // System.out.println(ArrayUtils.seeEverything(SplitStrings.solution("final")));
+        int[] arr = {20,10,-80,10,10,15,35};
+        System.out.println(EqualSidesOfAnArray.findEvenIndex(arr));
     }
+
 
 
     }

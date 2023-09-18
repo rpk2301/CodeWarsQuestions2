@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="Added Question">
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/EqualSidesOfAnArray/EqualSidesOfAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/EqualSidesOfAnArray/Question" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/tripleDouble/Question" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/tripleDouble/tripleDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/DeadFish/DeadFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/DeadFish/Question" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695062327433</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Question">
+      <option name="closed" value="true" />
+      <created>1695065744252</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695065744252</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
