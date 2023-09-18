@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="Added Question">
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/DeadFish/DeadFish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/DeadFish/Question" afterDir="false" />
+    <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="I want to try and make this one a switch statement so its not checking everything">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/DeadFish/DeadFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/DeadFish/DeadFish.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695065744252</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="I want to try and make this one a switch statement so its not checking everything">
+      <option name="closed" value="true" />
+      <created>1695073396794</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695073396794</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added readme" />
     <MESSAGE value="Added Question" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Question" />
+    <MESSAGE value="I want to try and make this one a switch statement so its not checking everything" />
+    <option name="LAST_COMMIT_MESSAGE" value="I want to try and make this one a switch statement so its not checking everything" />
   </component>
 </project>
