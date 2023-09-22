@@ -11,7 +11,8 @@ public class Main {
        // System.out.println(ArrayUtils.seeEverything(SplitStrings.solution("final")));
       //  int[] arr = {20,10,-80,10,10,15,35};
       //  System.out.println(EqualSidesOfAnArray.findEvenIndex(arr));
-        StringIncrementer.incrementString("foobar000");
+//        StringIncrementer.incrementString("foobar000");
+        System.out.println("Hi");
     }
 
 
