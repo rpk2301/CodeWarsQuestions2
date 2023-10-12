@@ -1,6 +1,7 @@
 package rocks.zipcode;
 
 import rocks.zipcode.BreakPalindrome.BreakPalindrome;
+import rocks.zipcode.BuildAPileOfCubes.BuildAPileOfCubes;
 import rocks.zipcode.DigitalRoot.DigitalRoot;
 import rocks.zipcode.EqualSidesOfAnArray.EqualSidesOfAnArray;
 import rocks.zipcode.GoodVsEvil.GoodVsEvil;
@@ -15,7 +16,8 @@ public class Main {
       //  System.out.println(EqualSidesOfAnArray.findEvenIndex(arr));
 //        StringIncrementer.incrementString("foobar000");
        // System.out.println("Hi");
-        DigitalRoot.digital_root(456);
+       // DigitalRoot.digital_root(456);
+        BuildAPileOfCubes.findNb(4183059834009L);
     }
 
 
