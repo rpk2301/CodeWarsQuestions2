@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="Finished question digitalroot">
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/BuildAPileOfCubes/BuildAPileOfCubes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/BuildAPileOfCubes/PileOfCubes" afterDir="false" />
+    <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="Finished question PileOfCubes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/MostFrequent/MostFrequent" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/MostFrequent/MostFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/SumString/Question" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/SumString/SumString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" afterDir="false" />
     </list>
@@ -85,7 +87,8 @@
       <workItem from="1692905233304" duration="8793000" />
       <workItem from="1695155247775" duration="4758000" />
       <workItem from="1695405401466" duration="3402000" />
-      <workItem from="1697139014119" duration="5260000" />
+      <workItem from="1697139014119" duration="7291000" />
+      <workItem from="1697553715428" duration="4640000" />
     </task>
     <task id="LOCAL-00001" summary="Added readme">
       <option name="closed" value="true" />
@@ -183,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697143975334</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Finished question PileOfCubes">
+      <option name="closed" value="true" />
+      <created>1697145811903</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697145811903</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +220,7 @@
     <MESSAGE value="Finished question" />
     <MESSAGE value="Finished question isNarc" />
     <MESSAGE value="Finished question digitalroot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished question digitalroot" />
+    <MESSAGE value="Finished question PileOfCubes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished question PileOfCubes" />
   </component>
 </project>

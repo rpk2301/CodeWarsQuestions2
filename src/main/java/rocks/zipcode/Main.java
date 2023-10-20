@@ -5,6 +5,7 @@ import rocks.zipcode.BuildAPileOfCubes.BuildAPileOfCubes;
 import rocks.zipcode.DigitalRoot.DigitalRoot;
 import rocks.zipcode.EqualSidesOfAnArray.EqualSidesOfAnArray;
 import rocks.zipcode.GoodVsEvil.GoodVsEvil;
+import rocks.zipcode.MostFrequent.MostFrequent;
 import rocks.zipcode.MultiplesOf3And5.Multiplesof3and5;
 import rocks.zipcode.SplitStrings.SplitStrings;
 import rocks.zipcode.StringIncrementer.StringIncrementer;
@@ -17,7 +18,9 @@ public class Main {
 //        StringIncrementer.incrementString("foobar000");
        // System.out.println("Hi");
        // DigitalRoot.digital_root(456);
-        BuildAPileOfCubes.findNb(4183059834009L);
+     //   BuildAPileOfCubes.findNb(4183059834009L);
+     //   MostFrequent.top3("Hello, world! This is a test 123.");
+        MostFrequent.top3("e e e e DDD ddd DdD: ddd ddd aa aA Aa, bb cc cC e e e");
     }
 
 
