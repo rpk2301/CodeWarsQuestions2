@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="Finished question">
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/GoodVsEvil/GoodVsEvil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +83,8 @@
       <workItem from="1692905233304" duration="8793000" />
       <workItem from="1695155247775" duration="4758000" />
       <workItem from="1695405401466" duration="3402000" />
+      <workItem from="1696876141945" duration="184000" />
+      <workItem from="1696877939181" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="Added readme">
       <option name="closed" value="true" />
