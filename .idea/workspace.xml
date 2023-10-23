@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="Finished question">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="Finished question PileOfCubes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/MostFrequent/MostFrequent" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/MostFrequent/MostFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/SumString/Question" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/SumString/SumString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" afterDir="false" />
+>>>>>>> 874968ee29cc62c455f3359c5f213c6caffb8b45
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +93,8 @@
       <workItem from="1692905233304" duration="8793000" />
       <workItem from="1695155247775" duration="4758000" />
       <workItem from="1695405401466" duration="3402000" />
-      <workItem from="1696876141945" duration="184000" />
-      <workItem from="1696877939181" duration="44000" />
+      <workItem from="1697139014119" duration="7291000" />
+      <workItem from="1697553715428" duration="4640000" />
     </task>
     <task id="LOCAL-00001" summary="Added readme">
       <option name="closed" value="true" />
@@ -166,7 +176,31 @@
       <option name="project" value="LOCAL" />
       <updated>1695412163130</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Finished question isNarc">
+      <option name="closed" value="true" />
+      <created>1697142465811</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1697142465812</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Finished question digitalroot">
+      <option name="closed" value="true" />
+      <created>1697143975334</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697143975334</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Finished question PileOfCubes">
+      <option name="closed" value="true" />
+      <created>1697145811903</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697145811903</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +224,9 @@
     <MESSAGE value="Made it a switch" />
     <MESSAGE value="Find the odd int" />
     <MESSAGE value="Finished question" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished question" />
+    <MESSAGE value="Finished question isNarc" />
+    <MESSAGE value="Finished question digitalroot" />
+    <MESSAGE value="Finished question PileOfCubes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished question PileOfCubes" />
   </component>
 </project>
