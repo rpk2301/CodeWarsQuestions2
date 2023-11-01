@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+
 
 public class MostFrequent {
 
@@ -21,7 +20,6 @@ public class MostFrequent {
                 words.put(z, 1);
             }
         }
-
         ArrayList<String> ret = new ArrayList();
         int i=0;
         while(i<3) {
@@ -43,5 +41,5 @@ public class MostFrequent {
         }
         return  ret;
     }
-    //No local key
+
 }

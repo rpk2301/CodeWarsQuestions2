@@ -2,6 +2,7 @@ package rocks.zipcode;
 
 import rocks.zipcode.BreakPalindrome.BreakPalindrome;
 import rocks.zipcode.BuildAPileOfCubes.BuildAPileOfCubes;
+import rocks.zipcode.Container.Container;
 import rocks.zipcode.DigitalRoot.DigitalRoot;
 import rocks.zipcode.EqualSidesOfAnArray.EqualSidesOfAnArray;
 import rocks.zipcode.GoodVsEvil.GoodVsEvil;
@@ -24,8 +25,10 @@ public class Main {
      //   MostFrequent.top3("Hello, world! This is a test 123.");
       //  MostFrequent.top3("e e e e DDD ddd DdD: ddd ddd aa aA Aa, bb cc cC e e e");
 
+        int[] ret = {1,8,6,2,5,4,8,3,7};
 
-        SellAndBuyStock.maxProfit(ret);
+      //  SellAndBuyStock.maxProfit(ret);
+        Container.maxArea(ret);
     }
 
 

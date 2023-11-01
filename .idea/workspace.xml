@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="Question in progress">
+    <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="Added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Container/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Container/Question" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/MostFrequent/MostFrequent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/MostFrequent/MostFrequent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ricky/CodeWarsQuestions2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/programs/CodeWarsQuestions2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -83,7 +87,8 @@
       <workItem from="1695155247775" duration="4758000" />
       <workItem from="1695405401466" duration="3402000" />
       <workItem from="1697139014119" duration="7291000" />
-      <workItem from="1697553715428" duration="5467000" />
+      <workItem from="1697553715428" duration="6963000" />
+      <workItem from="1698862264966" duration="2573000" />
     </task>
     <task id="LOCAL-00001" summary="Added readme">
       <option name="closed" value="true" />
@@ -197,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697820803025</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added">
+      <option name="closed" value="true" />
+      <created>1698393521508</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1698393521508</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +238,7 @@
     <MESSAGE value="Finished question digitalroot" />
     <MESSAGE value="Finished question PileOfCubes" />
     <MESSAGE value="Question in progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="Question in progress" />
+    <MESSAGE value="Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added" />
   </component>
 </project>
