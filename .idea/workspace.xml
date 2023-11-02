@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="Added container">
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/ProductButSelf/ProductButSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/ProductButSelf/Question" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="489b9e88-0e7c-4c9e-9380-76d7710e8f0e" name="Changes" comment="product except self">
+      <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/ProductButSelf/ProductButSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/ProductButSelf/ProductButSelf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,7 @@
       <workItem from="1697139014119" duration="7291000" />
       <workItem from="1697553715428" duration="6963000" />
       <workItem from="1698862264966" duration="3360000" />
-      <workItem from="1698955143642" duration="2802000" />
+      <workItem from="1698955143642" duration="3109000" />
     </task>
     <task id="LOCAL-00001" summary="Added readme">
       <option name="closed" value="true" />
@@ -217,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698865147661</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="product except self">
+      <option name="closed" value="true" />
+      <created>1698958366905</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1698958366905</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +254,18 @@
     <MESSAGE value="Question in progress" />
     <MESSAGE value="Added" />
     <MESSAGE value="Added container" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added container" />
+    <MESSAGE value="product except self" />
+    <option name="LAST_COMMIT_MESSAGE" value="product except self" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

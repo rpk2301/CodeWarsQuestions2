@@ -8,6 +8,7 @@ import rocks.zipcode.EqualSidesOfAnArray.EqualSidesOfAnArray;
 import rocks.zipcode.GoodVsEvil.GoodVsEvil;
 import rocks.zipcode.MostFrequent.MostFrequent;
 import rocks.zipcode.MultiplesOf3And5.Multiplesof3and5;
+import rocks.zipcode.ProductButSelf.ProductButSelf;
 import rocks.zipcode.SellAndBuyStock.SellAndBuyStock;
 import rocks.zipcode.SplitStrings.SplitStrings;
 import rocks.zipcode.StringIncrementer.StringIncrementer;
@@ -25,10 +26,8 @@ public class Main {
      //   MostFrequent.top3("Hello, world! This is a test 123.");
       //  MostFrequent.top3("e e e e DDD ddd DdD: ddd ddd aa aA Aa, bb cc cC e e e");
 
-        int[] ret = {1,8,6,2,5,4,8,3,7};
-
-      //  SellAndBuyStock.maxProfit(ret);
-        Container.maxArea(ret);
+        int[] ret = {1,2,3,4};
+        ProductButSelf.productExceptSelf(ret);
     }
 
 
